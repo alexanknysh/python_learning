@@ -1,3 +1,3 @@
 a: int = 2
-
-print('Hello!, ', a)
+b: int = 3
+print('Hello!, ', a, b)
